@@ -1,0 +1,66 @@
+body{
+    background-image:url("https://www.hot1029.com/wp-content/uploads/2018/09/All-Things-Halloween-640x400.jpg");
+   background-size:100%;
+    }
+       
+h1{
+    font-family: 'Satisfy', cursive;
+    padding:15px;
+     color:red;
+     border:red solid 10px;
+     text-align: center;
+     margin-top:200px;
+    }
+#main{
+    display:flex;
+   align-items:flex-end;
+    }
+ #button{
+     color:RED;
+     border:white solid 10px;
+     text-align: center;
+     height:100px;
+     margin-top:400px;
+     }
+
+ #candy{
+     padding:15px;
+     color:RED;
+     border:white solid 10px;
+     text-align: center;
+     height:100px;
+     margin-top:400px;
+     }     
+.katia{
+    width:250px;
+    height:500px;
+    border:orange solid 7px ;
+    }
+ 
+ .candy{
+     width:250px;
+    height:500px;
+    border:orange solid 7px;
+     }   
+#change{
+    display:flex;
+    justify-content:center;
+    width:50%;
+
+    }
+    
+#sweet{
+    display:flex;
+    justify-content:center;
+    width:50%;
+
+    }    
+    
+.buy{
+     padding:15px;
+     color:RED;
+     border:white solid 10px;
+     text-align: center;
+     height:100px;
+     margin-top:400px;
+    }
